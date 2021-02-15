@@ -1,0 +1,148 @@
+[
+	{
+		"january" : {
+        "topTube" : "150",
+        "downTube" : "120",
+        "seatTube" : "90",
+        "seatStay" : "85",
+        "chainStay" : "75",
+		"topTube1" : "210",
+        "downTube1" : "180",
+        "seatTube1" : "150",
+        "seatStay1" : "145",
+        "chainStay1" : "130"
+        },
+		"february" : {
+		"topTube" : "160",
+        "downTube" : "130",
+        "seatTube" : "100",
+        "seatStay" : "95",
+        "chainStay" : "85",
+		"topTube1" : "205",
+        "downTube1" : "175",
+        "seatTube1" : "145",
+        "seatStay1" : "140",
+        "chainStay1" : "125"
+		},
+		"march" : {
+		"topTube" : "165",
+        "downTube" : "135",
+        "seatTube" : "105",
+        "seatStay" : "100",
+        "chainStay" : "85",
+		"topTube1" : "200",
+        "downTube1" : "170",
+        "seatTube1" : "140",
+        "seatStay1" : "135",
+        "chainStay1" : "120"
+		},
+		"april" : {
+		"topTube" : "170",
+        "downTube" : "140",
+        "seatTube" : "110",
+        "seatStay" : "105",
+        "chainStay" : "90",
+		"topTube1" : "195",
+        "downTube1" : "165",
+        "seatTube1" : "135",
+        "seatStay1" : "130",
+        "chainStay1" : "115"
+		},
+		"may" : {
+		"topTube" : "175",
+        "downTube" : "145",
+        "seatTube" : "115",
+        "seatStay" : "110",
+        "chainStay" : "95",
+		"topTube1" : "190",
+        "downTube1" : "160",
+        "seatTube1" : "130",
+        "seatStay1" : "125",
+        "chainStay1" : "110"
+		},
+		"june" : {
+		"topTube" : "180",
+        "downTube" : "150",
+        "seatTube" : "120",
+        "seatStay" : "115",
+        "chainStay" : "100",
+		"topTube1" : "185",
+        "downTube1" : "155",
+        "seatTube1" : "125",
+        "seatStay1" : "120",
+        "chainStay1" : "105"
+		},
+		"july" : {
+		"topTube" : "185",
+        "downTube" : "155",
+        "seatTube" : "125",
+        "seatStay" : "120",
+        "chainStay" : "105",
+		"topTube1" : "180",
+        "downTube1" : "150",
+        "seatTube1" : "120",
+        "seatStay1" : "115",
+        "chainStay1" : "100"
+		},
+		"august" : {
+		"topTube" : "190",
+        "downTube" : "160",
+        "seatTube" : "130",
+        "seatStay" : "125",
+        "chainStay" : "110",
+		"topTube1" : "175",
+        "downTube1" : "145",
+        "seatTube1" : "115",
+        "seatStay1" : "110",
+        "chainStay1" : "95"
+		},
+		"september" : {
+		"topTube" : "195",
+        "downTube" : "165",
+        "seatTube" : "135",
+        "seatStay" : "130",
+        "chainStay" : "115",
+		"topTube1" : "180",
+        "downTube1" : "150",
+        "seatTube1" : "120",
+        "seatStay1" : "115",
+        "chainStay1" : "100"
+		},
+	    "october" : {
+	    "topTube" : "200",
+        "downTube" : "170",
+        "seatTube" : "140",
+        "seatStay" : "135",
+        "chainStay" : "120",
+		"topTube1" : "175",
+        "downTube1" : "145",
+        "seatTube1" : "115",
+        "seatStay1" : "110",
+        "chainStay1" : "95"
+	    },
+		"november" : {
+		"topTube" : "205",
+        "downTube" : "175",
+        "seatTube" : "145",
+        "seatStay" : "140",
+        "chainStay" : "125",
+		"topTube1" : "170",
+        "downTube1" : "140",
+        "seatTube1" : "110",
+        "seatStay1" : "105",
+        "chainStay1" : "90"
+		},
+		"december" : {
+		"topTube" : "210",
+        "downTube" : "180",
+        "seatTube" : "150",
+        "seatStay" : "145",
+        "chainStay" : "130",
+		"topTube1" : "165",
+        "downTube1" : "135",
+        "seatTube1" : "105",
+        "seatStay1" : "100",
+        "chainStay1" : "85"
+		}
+	}
+]

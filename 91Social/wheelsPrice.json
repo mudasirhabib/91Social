@@ -1,0 +1,148 @@
+[
+	{
+		"january" : {
+        "spoke" : "25",
+        "hub" : "40",
+        "rim" : "50",
+        "tire" : "35",
+        "valve" : "5",
+		"spoke1" : "80",
+        "hub1" : "95",
+        "rim1" : "105",
+        "tire1" : "90",
+        "valve1" : "60"
+        },
+		"february" : {
+		"spoke" : "30",
+        "hub" : "45",
+        "rim" : "55",
+        "tire" : "40",
+        "valve" : "10",
+		"spoke1" : "75",
+        "hub1" : "90",
+        "rim1" : "100",
+        "tire1" : "85",
+        "valve1" : "55"
+		},
+		"march" : {
+		"spoke" : "35",
+        "hub" : "50",
+        "rim" : "60",
+        "tire" : "45",
+        "valve" : "15",
+		"spoke1" : "70",
+        "hub1" : "85",
+        "rim1" : "95",
+        "tire1" : "80",
+        "valve1" : "50"
+		},
+		"april" : {
+		"spoke" : "40",
+        "hub" : "55",
+        "rim" : "65",
+        "tire" : "50",
+        "valve" : "20",
+		"spoke1" : "65",
+        "hub1" : "80",
+        "rim1" : "90",
+        "tire1" : "75",
+        "valve1" : "45"
+		},
+		"may" : {
+		"spoke" : "45",
+        "hub" : "60",
+        "rim" : "70",
+        "tire" : "55",
+        "valve" : "25",
+		"spoke1" : "60",
+        "hub1" : "75",
+        "rim1" : "85",
+        "tire1" : "70",
+        "valve1" : "40"
+		},
+		"june" : {
+		"spoke" : "50",
+        "hub" : "65",
+        "rim" : "75",
+        "tire" : "60",
+        "valve" : "30",
+		"spoke1" : "55",
+        "hub1" : "70",
+        "rim1" : "80",
+        "tire1" : "65",
+        "valve1" : "35"
+		},
+		"july" : {
+		"spoke" : "55",
+        "hub" : "70",
+        "rim" : "80",
+        "tire" : "65",
+        "valve" : "35",
+		"spoke1" : "50",
+        "hub1" : "65",
+        "rim1" : "75",
+        "tire1" : "60",
+        "valve1" : "30"
+		},
+		"august" : {
+		"spoke" : "60",
+        "hub" : "75",
+        "rim" : "85",
+        "tire" : "70",
+        "valve" : "40",
+		"spoke1" : "45",
+        "hub1" : "60",
+        "rim1" : "70",
+        "tire1" : "55",
+        "valve1" : "25"
+		},
+		"september" : {
+		"spoke" : "65",
+        "hub" : "80",
+        "rim" : "90",
+        "tire" : "75",
+        "valve" : "45",
+		"spoke1" : "40",
+        "hub1" : "55",
+        "rim1" : "65",
+        "tire1" : "50",
+        "valve1" : "20"
+		},
+	    "october" : {
+	    "spoke" : "70",
+        "hub" : "85",
+        "rim" : "95",
+        "tire" : "80",
+        "valve" : "50",
+		"spoke1" : "45",
+        "hub1" : "60",
+        "rim1" : "70",
+        "tire1" : "55",
+        "valve1" : "25"
+	    },
+		"november" : {
+		"spoke" : "75",
+        "hub" : "90",
+        "rim" : "100",
+        "tire" : "85",
+        "valve" : "55",
+		"spoke1" : "40",
+        "hub1" : "55",
+        "rim1" : "65",
+        "tire1" : "50",
+        "valve1" : "20"
+		},
+		"december" : {
+		"spoke" : "80",
+        "hub" : "95",
+        "rim" : "105",
+        "tire" : "90",
+        "valve" : "60",
+		"spoke1" : "35",
+        "hub1" : "50",
+        "rim1" : "60",
+        "tire1" : "45",
+        "valve1" : "15"
+		}
+	}
+]

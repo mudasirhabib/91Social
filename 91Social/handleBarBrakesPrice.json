@@ -1,0 +1,148 @@
+[
+	{
+		"january" : {
+        "handleBarGrip" : "20",
+        "headTube" : "30",
+        "shockAbsorber" : "55",
+        "frontBrake" : "50",
+        "fork" : "15",
+		"handleBarGrip1" : "75",
+        "headTube1" : "85",
+        "shockAbsorber1" : "110",
+        "frontBrake1" : "105",
+        "fork1" : "70"
+        },
+		"february" : {
+		"handleBarGrip" : "25",
+        "headTube" : "35",
+        "shockAbsorber" : "60",
+        "frontBrake" : "55",
+        "fork" : "20",
+		"handleBarGrip1" : "70",
+        "headTube1" : "80",
+        "shockAbsorber1" : "105",
+        "frontBrake1" : "100",
+        "fork1" : "65"
+		},
+		"march" : {
+		"handleBarGrip" : "30",
+        "headTube" : "40",
+        "shockAbsorber" : "65",
+        "frontBrake" : "60",
+        "fork" : "25",
+		"handleBarGrip1" : "65",
+        "headTube1" : "75",
+        "shockAbsorber1" : "100",
+        "frontBrake1" : "95",
+        "fork1" : "60"
+		},
+		"april" : {
+		"handleBarGrip" : "35",
+        "headTube" : "45",
+        "shockAbsorber" : "70",
+        "frontBrake" : "65",
+        "fork" : "30",
+		"handleBarGrip1" : "60",
+        "headTube1" : "70",
+        "shockAbsorber1" : "95",
+        "frontBrake1" : "90",
+        "fork1" : "55"
+		},
+		"may" : {
+		"handleBarGrip" : "40",
+        "headTube" : "50",
+        "shockAbsorber" : "75",
+        "frontBrake" : "70",
+        "fork" : "35",
+		"handleBarGrip1" : "65",
+        "headTube1" : "75",
+        "shockAbsorber1" : "100",
+        "frontBrake1" : "95",
+        "fork1" : "60"
+		},
+		"june" : {
+		"handleBarGrip" : "45",
+        "headTube" : "55",
+        "shockAbsorber" : "80",
+        "frontBrake" : "75",
+        "fork" : "40",
+		"handleBarGrip1" : "60",
+        "headTube1" : "70",
+        "shockAbsorber1" : "95",
+        "frontBrake1" : "90",
+        "fork1" : "55"
+		},
+		"july" : {
+		"handleBarGrip" : "50",
+        "headTube" : "60",
+        "shockAbsorber" : "85",
+        "frontBrake" : "80",
+        "fork" : "45",
+		"handleBarGrip1" : "50",
+        "headTube1" : "60",
+        "shockAbsorber1" : "85",
+        "frontBrake1" : "80",
+        "fork1" : "45"
+		},
+		"august" : {
+		"handleBarGrip" : "55",
+        "headTube" : "65",
+        "shockAbsorber" : "90",
+        "frontBrake" : "85",
+        "fork" : "50",
+		"handleBarGrip1" : "45",
+        "headTube1" : "55",
+        "shockAbsorber1" : "80",
+        "frontBrake1" : "75",
+        "fork1" : "40"
+		},
+		"september" : {
+		"handleBarGrip" : "60",
+        "headTube" : "70",
+        "shockAbsorber" : "95",
+        "frontBrake" : "90",
+        "fork" : "55",
+		"handleBarGrip1" : "40",
+        "headTube1" : "50",
+        "shockAbsorber1" : "75",
+        "frontBrake1" : "70",
+        "fork1" : "35"
+		},
+	    "october" : {
+	    "handleBarGrip" : "65",
+        "headTube" : "75",
+        "shockAbsorber" : "100",
+        "frontBrake" : "95",
+        "fork" : "60",
+		"handleBarGrip1" : "35",
+        "headTube1" : "45",
+        "shockAbsorber1" : "70",
+        "frontBrake1" : "65",
+        "fork1" : "30"
+	    },
+		"november" : {
+		"handleBarGrip" : "70",
+        "headTube" : "80",
+        "shockAbsorber" : "105",
+        "frontBrake" : "100",
+        "fork" : "65",
+		"handleBarGrip1" : "30",
+        "headTube1" : "40",
+        "shockAbsorber1" : "65",
+        "frontBrake1" : "60",
+        "fork1" : "25"
+		},
+		"december" : {
+		"handleBarGrip" : "75",
+        "headTube" : "85",
+        "shockAbsorber" : "110",
+        "frontBrake" : "105",
+        "fork" : "70",
+		"handleBarGrip1" : "25",
+        "headTube1" : "35",
+        "shockAbsorber1" : "60",
+        "frontBrake1" : "55",
+        "fork1" : "20"
+		}
+	}
+]

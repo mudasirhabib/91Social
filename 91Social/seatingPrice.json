@@ -1,0 +1,76 @@
+[
+	{
+		"january" : {
+        "saddle" : "40",
+        "seatPost" : "30",
+		"saddle1" : "95",
+        "seatPost1" : "85"
+        },
+		"february" : {
+		"saddle" : "45",
+        "seatPost" : "35",
+		"saddle1" : "90",
+        "seatPost1" : "80"
+		},
+		"march" : {
+		"saddle" : "50",
+        "seatPost" : "40",
+		"saddle1" : "85",
+        "seatPost1" : "75"
+		},
+		"april" : {
+		"saddle" : "55",
+        "seatPost" : "45",
+		"saddle1" : "80",
+        "seatPost1" : "70"
+		},
+		"may" : {
+		"saddle" : "60",
+        "seatPost" : "50",
+		"saddle1" : "75",
+        "seatPost1" : "65"
+		},
+		"june" : {
+		"saddle" : "65",
+        "seatPost" : "55",
+		"saddle1" : "70",
+        "seatPost1" : "60"
+		},
+		"july" : {
+		"saddle" : "70",
+        "seatPost" : "60",
+		"saddle1" : "65",
+        "seatPost1" : "55"
+		},
+		"august" : {
+		"saddle" : "75",
+        "seatPost" : "65",
+		"saddle1" : "70",
+        "seatPost1" : "60"
+		},
+		"september" : {
+		"saddle" : "80",
+        "seatPost" : "70",
+		"saddle1" : "65",
+        "seatPost1" : "55"
+		},
+	    "october" : {
+	    "saddle" : "85",
+        "seatPost" : "75",
+		"saddle1" : "60",
+        "seatPost1" : "50"
+	    },
+		"november" : {
+		"saddle" : "90",
+        "seatPost" : "80",
+		"saddle1" : "55",
+        "seatPost1" : "45"
+		},
+		"december" : {
+		"saddle" : "95",
+        "seatPost" : "85",
+		"saddle1" : "45",
+        "seatPost1" : "35"
+		}
+	}
+]

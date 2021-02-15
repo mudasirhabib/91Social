@@ -1,0 +1,76 @@
+[
+	{
+		"january" : {
+        "chain" : "25",
+        "chainRings" : "40",
+		"chain1" : "80",
+        "chainRings1" : "95"
+        },
+		"february" : {
+		"chain" : "30",
+        "chainRings" : "45",
+		"chain1" : "75",
+        "chainRings1" : "90"
+		},
+		"march" : {
+		"chain" : "35",
+        "chainRings" : "50",
+		"chain1" : "70",
+        "chainRings1" : "85"
+		},
+		"april" : {
+		"chain" : "40",
+        "chainRings" : "55",
+		"chain1" : "65",
+        "chainRings1" : "80"
+		},
+		"may" : {
+		"chain" : "45",
+        "chainRings" : "60",
+		"chain1" : "60",
+        "chainRings1" : "75"
+		},
+		"june" : {
+		"chain" : "50",
+        "chainRings" : "65",
+		"chain1" : "55",
+        "chainRings1" : "70"
+		},
+		"july" : {
+		"chain" : "55",
+        "chainRings" : "70",
+		"chain1" : "50",
+        "chainRings1" : "65"
+		},
+		"august" : {
+		"chain" : "60",
+        "chainRings" : "75",
+		"chain1" : "45",
+        "chainRings1" : "60"
+		},
+		"september" : {
+		"chain" : "65",
+        "chainRings" : "80",
+		"chain1" : "35",
+        "chainRings1" : "50"
+		},
+	    "october" : {
+	    "chain" : "70",
+        "chainRings" : "85",
+		"chain1" : "30",
+        "chainRings1" : "45"
+	    },
+		"november" : {
+		"chain" : "75",
+        "chainRings" : "90",
+		"chain1" : "25",
+        "chainRings1" : "40"
+		},
+		"december" : {
+		"chain" : "80",
+        "chainRings" : "95",
+		"chain1" : "40",
+        "chainRings1" : "55"
+		}
+	}
+]

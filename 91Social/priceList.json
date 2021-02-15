@@ -1,0 +1,598 @@
+[
+    {
+    "frame": {
+        "January" : {
+        "topTube" : "150",
+        "downTube" : "120",
+        "seatTube" : "90",
+        "seatStay" : "85",
+        "chainStay" : "75",
+		"topTube1" : "210",
+        "downTube1" : "180",
+        "seatTube1" : "150",
+        "seatStay1" : "145",
+        "chainStay1" : "130"
+        },
+		"February" : {
+		"topTube" : "160",
+        "downTube" : "130",
+        "seatTube" : "100",
+        "seatStay" : "95",
+        "chainStay" : "85",
+		"topTube1" : "205",
+        "downTube1" : "175",
+        "seatTube1" : "145",
+        "seatStay1" : "140",
+        "chainStay1" : "125"
+		},
+		"March" : {
+		"topTube" : "165",
+        "downTube" : "135",
+        "seatTube" : "105",
+        "seatStay" : "100",
+        "chainStay" : "85",
+		"topTube1" : "200",
+        "downTube1" : "170",
+        "seatTube1" : "140",
+        "seatStay1" : "135",
+        "chainStay1" : "120"
+		},
+		"April" : {
+		"topTube" : "170",
+        "downTube" : "140",
+        "seatTube" : "110",
+        "seatStay" : "105",
+        "chainStay" : "90",
+		"topTube1" : "195",
+        "downTube1" : "165",
+        "seatTube1" : "135",
+        "seatStay1" : "130",
+        "chainStay1" : "115"
+		},
+		"May" : {
+		"topTube" : "175",
+        "downTube" : "145",
+        "seatTube" : "115",
+        "seatStay" : "110",
+        "chainStay" : "95",
+		"topTube1" : "190",
+        "downTube1" : "160",
+        "seatTube1" : "130",
+        "seatStay1" : "125",
+        "chainStay1" : "110"
+		},
+		"June" : {
+		"topTube" : "180",
+        "downTube" : "150",
+        "seatTube" : "120",
+        "seatStay" : "115",
+        "chainStay" : "100",
+		"topTube1" : "185",
+        "downTube1" : "155",
+        "seatTube1" : "125",
+        "seatStay1" : "120",
+        "chainStay1" : "105"
+		},
+		"July" : {
+		"topTube" : "185",
+        "downTube" : "155",
+        "seatTube" : "125",
+        "seatStay" : "120",
+        "chainStay" : "105",
+		"topTube1" : "180",
+        "downTube1" : "150",
+        "seatTube1" : "120",
+        "seatStay1" : "115",
+        "chainStay1" : "100"
+		},
+		"August" : {
+		"topTube" : "190",
+        "downTube" : "160",
+        "seatTube" : "130",
+        "seatStay" : "125",
+        "chainStay" : "110",
+		"topTube1" : "175",
+        "downTube1" : "145",
+        "seatTube1" : "115",
+        "seatStay1" : "110",
+        "chainStay1" : "95"
+		},
+		"September" : {
+		"topTube" : "195",
+        "downTube" : "165",
+        "seatTube" : "135",
+        "seatStay" : "130",
+        "chainStay" : "115",
+		"topTube1" : "180",
+        "downTube1" : "150",
+        "seatTube1" : "120",
+        "seatStay1" : "115",
+        "chainStay1" : "100"
+		},
+	    "October" : {
+	    "topTube" : "200",
+        "downTube" : "170",
+        "seatTube" : "140",
+        "seatStay" : "135",
+        "chainStay" : "120",
+		"topTube1" : "175",
+        "downTube1" : "145",
+        "seatTube1" : "115",
+        "seatStay1" : "110",
+        "chainStay1" : "95"
+	    },
+		"November" : {
+		"topTube" : "205",
+        "downTube" : "175",
+        "seatTube" : "145",
+        "seatStay" : "140",
+        "chainStay" : "125",
+		"topTube1" : "170",
+        "downTube1" : "140",
+        "seatTube1" : "110",
+        "seatStay1" : "105",
+        "chainStay1" : "90"
+		},
+		"December" : {
+		"topTube" : "210",
+        "downTube" : "180",
+        "seatTube" : "150",
+        "seatStay" : "145",
+        "chainStay" : "130",
+		"topTube1" : "165",
+        "downTube1" : "135",
+        "seatTube1" : "105",
+        "seatStay1" : "100",
+        "chainStay1" : "85"
+		}
+		}  
+	},
+	{
+    "handleBarBrakes": {
+        "January" : {
+        "handleBarGrip" : "20",
+        "headTube" : "30",
+        "shockAbsorber" : "55",
+        "frontBrake" : "50",
+        "fork" : "15",
+		"handleBarGrip1" : "75",
+        "headTube1" : "85",
+        "shockAbsorber1" : "110",
+        "frontBrake1" : "105",
+        "fork1" : "70"
+        },
+		"February" : {
+		"handleBarGrip" : "25",
+        "headTube" : "35",
+        "shockAbsorber" : "60",
+        "frontBrake" : "55",
+        "fork" : "20",
+		"handleBarGrip1" : "70",
+        "headTube1" : "80",
+        "shockAbsorber1" : "105",
+        "frontBrake1" : "100",
+        "fork1" : "65"
+		},
+		"March" : {
+		"handleBarGrip" : "30",
+        "headTube" : "40",
+        "shockAbsorber" : "65",
+        "frontBrake" : "60",
+        "fork" : "25",
+		"handleBarGrip1" : "65",
+        "headTube1" : "75",
+        "shockAbsorber1" : "100",
+        "frontBrake1" : "95",
+        "fork1" : "60"
+		},
+		"April" : {
+		"handleBarGrip" : "35",
+        "headTube" : "45",
+        "shockAbsorber" : "70",
+        "frontBrake" : "65",
+        "fork" : "30",
+		"handleBarGrip1" : "60",
+        "headTube1" : "70",
+        "shockAbsorber1" : "95",
+        "frontBrake1" : "90",
+        "fork1" : "55"
+		},
+		"May" : {
+		"handleBarGrip" : "40",
+        "headTube" : "50",
+        "shockAbsorber" : "75",
+        "frontBrake" : "70",
+        "fork" : "35",
+		"handleBarGrip1" : "65",
+        "headTube1" : "75",
+        "shockAbsorber1" : "100",
+        "frontBrake1" : "95",
+        "fork1" : "60"
+		},
+		"June" : {
+		"handleBarGrip" : "45",
+        "headTube" : "55",
+        "shockAbsorber" : "80",
+        "frontBrake" : "75",
+        "fork" : "40",
+		"handleBarGrip1" : "60",
+        "headTube1" : "70",
+        "shockAbsorber1" : "95",
+        "frontBrake1" : "90",
+        "fork1" : "55"
+		},
+		"July" : {
+		"handleBarGrip" : "50",
+        "headTube" : "60",
+        "shockAbsorber" : "85",
+        "frontBrake" : "80",
+        "fork" : "45",
+		"handleBarGrip1" : "50",
+        "headTube1" : "60",
+        "shockAbsorber1" : "85",
+        "frontBrake1" : "80",
+        "fork1" : "45"
+		},
+		"August" : {
+		"handleBarGrip" : "55",
+        "headTube" : "65",
+        "shockAbsorber" : "90",
+        "frontBrake" : "85",
+        "fork" : "50",
+		"handleBarGrip1" : "45",
+        "headTube1" : "55",
+        "shockAbsorber1" : "80",
+        "frontBrake1" : "75",
+        "fork1" : "40"
+		},
+		"September" : {
+		"handleBarGrip" : "60",
+        "headTube" : "70",
+        "shockAbsorber" : "95",
+        "frontBrake" : "90",
+        "fork" : "55",
+		"handleBarGrip1" : "40",
+        "headTube1" : "50",
+        "shockAbsorber1" : "75",
+        "frontBrake1" : "70",
+        "fork1" : "35"
+		},
+	    "October" : {
+	    "handleBarGrip" : "65",
+        "headTube" : "75",
+        "shockAbsorber" : "100",
+        "frontBrake" : "95",
+        "fork" : "60",
+		"handleBarGrip1" : "35",
+        "headTube1" : "45",
+        "shockAbsorber1" : "70",
+        "frontBrake1" : "65",
+        "fork1" : "30"
+	    },
+		"November" : {
+		"handleBarGrip" : "70",
+        "headTube" : "80",
+        "shockAbsorber" : "105",
+        "frontBrake" : "100",
+        "fork" : "65",
+		"handleBarGrip1" : "30",
+        "headTube1" : "40",
+        "shockAbsorber1" : "65",
+        "frontBrake1" : "60",
+        "fork1" : "25"
+		},
+		"December" : {
+		"handleBarGrip" : "75",
+        "headTube" : "85",
+        "shockAbsorber" : "110",
+        "frontBrake" : "105",
+        "fork" : "70",
+		"handleBarGrip1" : "25",
+        "headTube1" : "35",
+        "shockAbsorber1" : "60",
+        "frontBrake1" : "55",
+        "fork1" : "20"
+		}
+		}  
+	},
+	{
+    "seating": {
+        "January" : {
+        "saddle" : "40",
+        "seatPost" : "30",
+		"saddle1" : "95",
+        "seatPost1" : "85"
+        },
+		"February" : {
+		"saddle" : "45",
+        "seatPost" : "35",
+		"saddle1" : "90",
+        "seatPost1" : "80"
+		},
+		"March" : {
+		"saddle" : "50",
+        "seatPost" : "40",
+		"saddle1" : "85",
+        "seatPost1" : "75"
+		},
+		"April" : {
+		"saddle" : "55",
+        "seatPost" : "45",
+		"saddle1" : "80",
+        "seatPost1" : "70"
+		},
+		"May" : {
+		"saddle" : "60",
+        "seatPost" : "50",
+		"saddle1" : "75",
+        "seatPost1" : "65"
+		},
+		"June" : {
+		"saddle" : "65",
+        "seatPost" : "55",
+		"saddle1" : "70",
+        "seatPost1" : "60"
+		},
+		"July" : {
+		"saddle" : "70",
+        "seatPost" : "60",
+		"saddle1" : "65",
+        "seatPost1" : "55"
+		},
+		"August" : {
+		"saddle" : "75",
+        "seatPost" : "65",
+		"saddle1" : "70",
+        "seatPost1" : "60"
+		},
+		"September" : {
+		"saddle" : "80",
+        "seatPost" : "70",
+		"saddle1" : "65",
+        "seatPost1" : "55"
+		},
+	    "October" : {
+	    "saddle" : "85",
+        "seatPost" : "75",
+		"saddle1" : "60",
+        "seatPost1" : "50"
+	    },
+		"November" : {
+		"saddle" : "90",
+        "seatPost" : "80",
+		"saddle1" : "55",
+        "seatPost1" : "45"
+		},
+		"December" : {
+		"saddle" : "95",
+        "seatPost" : "85",
+		"saddle1" : "45",
+        "seatPost1" : "35"
+		}
+		}  
+	} ,
+	{
+    "wheels": {
+        "January" : {
+        "spoke" : "25",
+        "hub" : "40",
+        "rim" : "50",
+        "tire" : "35",
+        "valve" : "5",
+		"spoke1" : "80",
+        "hub1" : "95",
+        "rim1" : "105",
+        "tire1" : "90",
+        "valve1" : "60"
+        },
+		"February" : {
+		"spoke" : "30",
+        "hub" : "45",
+        "rim" : "55",
+        "tire" : "40",
+        "valve" : "10",
+		"spoke1" : "75",
+        "hub1" : "90",
+        "rim1" : "100",
+        "tire1" : "85",
+        "valve1" : "55"
+		},
+		"March" : {
+		"spoke" : "35",
+        "hub" : "50",
+        "rim" : "60",
+        "tire" : "45",
+        "valve" : "15",
+		"spoke1" : "70",
+        "hub1" : "85",
+        "rim1" : "95",
+        "tire1" : "80",
+        "valve1" : "50"
+		},
+		"April" : {
+		"spoke" : "40",
+        "hub" : "55",
+        "rim" : "65",
+        "tire" : "50",
+        "valve" : "20",
+		"spoke1" : "65",
+        "hub1" : "80",
+        "rim1" : "90",
+        "tire1" : "75",
+        "valve1" : "45"
+		},
+		"May" : {
+		"spoke" : "45",
+        "hub" : "60",
+        "rim" : "70",
+        "tire" : "55",
+        "valve" : "25",
+		"spoke1" : "60",
+        "hub1" : "75",
+        "rim1" : "85",
+        "tire1" : "70",
+        "valve1" : "40"
+		},
+		"June" : {
+		"spoke" : "50",
+        "hub" : "65",
+        "rim" : "75",
+        "tire" : "60",
+        "valve" : "30",
+		"spoke1" : "55",
+        "hub1" : "70",
+        "rim1" : "80",
+        "tire1" : "65",
+        "valve1" : "35"
+		},
+		"July" : {
+		"spoke" : "55",
+        "hub" : "70",
+        "rim" : "80",
+        "tire" : "65",
+        "valve" : "35",
+		"spoke1" : "50",
+        "hub1" : "65",
+        "rim1" : "75",
+        "tire1" : "60",
+        "valve1" : "30"
+		},
+		"August" : {
+		"spoke" : "60",
+        "hub" : "75",
+        "rim" : "85",
+        "tire" : "70",
+        "valve" : "40",
+		"spoke1" : "45",
+        "hub1" : "60",
+        "rim1" : "70",
+        "tire1" : "55",
+        "valve1" : "25"
+		},
+		"September" : {
+		"spoke" : "65",
+        "hub" : "80",
+        "rim" : "90",
+        "tire" : "75",
+        "valve" : "45",
+		"spoke1" : "40",
+        "hub1" : "55",
+        "rim1" : "65",
+        "tire1" : "50",
+        "valve1" : "20"
+		},
+	    "October" : {
+	    "spoke" : "70",
+        "hub" : "85",
+        "rim" : "95",
+        "tire" : "80",
+        "valve" : "50",
+		"spoke1" : "45",
+        "hub1" : "60",
+        "rim1" : "70",
+        "tire1" : "55",
+        "valve1" : "25"
+	    },
+		"November" : {
+		"spoke" : "75",
+        "hub" : "90",
+        "rim" : "100",
+        "tire" : "85",
+        "valve" : "55",
+		"spoke1" : "40",
+        "hub1" : "55",
+        "rim1" : "65",
+        "tire1" : "50",
+        "valve1" : "20"
+		},
+		"December" : {
+		"spoke" : "80",
+        "hub" : "95",
+        "rim" : "105",
+        "tire" : "90",
+        "valve" : "60",
+		"spoke1" : "35",
+        "hub1" : "50",
+        "rim1" : "60",
+        "tire1" : "45",
+        "valve1" : "15"
+		}
+		}  
+	} ,
+	{
+    "chainAssembly": {
+        "January" : {
+        "chain" : "25",
+        "chainRings" : "40",
+		"chain1" : "80",
+        "chainRings1" : "95"
+        },
+		"February" : {
+		"chain" : "30",
+        "chainRings" : "45",
+		"chain1" : "75",
+        "chainRings1" : "90"
+		},
+		"March" : {
+		"chain" : "35",
+        "chainRings" : "50",
+		"chain1" : "70",
+        "chainRings1" : "85"
+		},
+		"April" : {
+		"chain" : "40",
+        "chainRings" : "55",
+		"chain1" : "65",
+        "chainRings1" : "80"
+		},
+		"May" : {
+		"chain" : "45",
+        "chainRings" : "60",
+		"chain1" : "60",
+        "chainRings1" : "75"
+		},
+		"June" : {
+		"chain" : "50",
+        "chainRings" : "65",
+		"chain1" : "55",
+        "chainRings1" : "70"
+		},
+		"July" : {
+		"chain" : "55",
+        "chainRings" : "70",
+		"chain1" : "50",
+        "chainRings1" : "65"
+		},
+		"August" : {
+		"chain" : "60",
+        "chainRings" : "75",
+		"chain1" : "45",
+        "chainRings1" : "60"
+		},
+		"September" : {
+		"chain" : "65",
+        "chainRings" : "80",
+		"chain1" : "35",
+        "chainRings1" : "50"
+		},
+	    "October" : {
+	    "chain" : "70",
+        "chainRings" : "85",
+		"chain1" : "30",
+        "chainRings1" : "45"
+	    },
+		"November" : {
+		"chain" : "75",
+        "chainRings" : "90",
+		"chain1" : "25",
+        "chainRings1" : "40"
+		},
+		"December" : {
+		"chain" : "80",
+        "chainRings" : "95",
+		"chain1" : "40",
+        "chainRings1" : "55"
+		}
+		}  
+	}     
+]
